@@ -263,6 +263,10 @@ text-decoration:none;
   }
 }
 
+@media (max-width: 768px)
+.home__img {
+    margin-right: 1.5em;
+}
 
 /*BUTTONS*/
 .button{
