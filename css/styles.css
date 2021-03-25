@@ -302,7 +302,14 @@ text-decoration:none;
   color: var(--first-color);
 }
 
-
+@media screen and (min-width: 768px)
+  .about__img img {  
+    width: 385px;
+    margin-left: -2em;
+  }  
+    
+    
+    
 
 /* ===== SKILLS =====*/
 .skills__container{
