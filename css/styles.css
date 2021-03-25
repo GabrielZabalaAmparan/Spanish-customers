@@ -259,6 +259,7 @@ text-decoration:none;
         margin-top: 19em;
         margin-left: 0.5em;
         border-radius: 5%;
+        padding-left: 1.4em;
   }
 }
 
@@ -599,6 +600,12 @@ margin-top: 5em;
   #carouselExampleControls {
     margin-left: 1em;
     width: 330px;
+  }
+}
+
+@media (max-width: 768px) {
+  .carousel-item  {
+    padding-left: 1.4em;
   }
 }
 
