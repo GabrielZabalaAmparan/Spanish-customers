@@ -604,14 +604,14 @@ margin-top: 5em;
 
 @media (max-width: 768px) {
   #carouselExampleControls {
-    margin-left: 1em;
+    margin-left: 2em;
     width: 330px;
   }
 }
 
 @media (max-width: 768px) {
   .carousel-item  {
-    padding-left: 1.4em;
+    padding-left: 2.4em;
   }
 }
 
