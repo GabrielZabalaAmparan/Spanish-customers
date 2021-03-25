@@ -260,13 +260,14 @@ text-decoration:none;
     margin-left: -2em;
     border-radius: 5%;
     padding-left: 1.4em;
-    margin-bottom: 3em;
+    
   }
 }
 
 @media (max-width: 768px)
 .home__img {
     margin-right: 1.5em;
+  margin-bottom: 3em;
 }
 
 /*BUTTONS*/
