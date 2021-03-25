@@ -255,8 +255,8 @@ text-decoration:none;
 
 @media (max-width: 768px)
 .home-image {
-    width: 235px;
-    margin-top: 23em;
+    width: 210px;
+    margin-top: 13em;
     margin-left: -2em;
     border-radius: 0%;
     padding-left: 1.4em;
@@ -302,11 +302,11 @@ text-decoration:none;
   color: var(--first-color);
 }
 
-/* @media screen and (min-width: 768px)
+@media screen and (min-width: 768px)
   .about__img img {  
     width: 385px;
     margin-left: -2em;
-  }   */
+  }  
     
     
     
